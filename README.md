@@ -27,7 +27,7 @@
 - **Toronto Bioinformatics Hackathon**: 2nd place out of 23 projects (116 contestants).  
   I co-led a 5-person team and single-handedly trained a transformer model (DNABERT-2-117M) in PyTorch and Hugging Face on A100 GPUs to predict alternative polyadenylation site choice from sequence.  
   Held-out performance: **Accuracy 0.86**, **AUROC 0.93**, **AUPRC 0.94**, **F1 0.86**. The team was awarded **$500**.  
-  🔗 Devpost: https://devpost.com/software/predicting-apa-site-choice-from-mrna-sequences
+  Devpost: https://devpost.com/software/predicting-apa-site-choice-from-mrna-sequences
 
 ### What I work with
 <p>
@@ -52,7 +52,7 @@
 - **LeetTutor**  
   A lightweight micro-app that analyzes LeetCode problems and returns targeted feedback quickly.  
   Stack: Python, Cloudflare Workers, plain JS.  
-  🔗 Repo: https://github.com/l2ggy/leettutor
+  Repo: https://github.com/l2ggy/leettutor
 
 ### GitHub stats
 <p align="left">

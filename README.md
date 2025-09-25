@@ -3,7 +3,7 @@
   Inspired by: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 
-<h1 align="center">Hi, I'm Boris 👋</h1>
+<h1 align="center">Hi, I'm Boris!!</h1>
 
 <p align="center">
   <a href="https://www.utoronto.ca/">University of Toronto</a> • CS & Math (AI focus) • Toronto, Canada
@@ -17,13 +17,13 @@
 
 ---
 
-### 👨‍🎓 About me
+### About me
 - Second-year CS & Math student at U of T with a focus in AI  
 - Instrumentation Software Developer (work study) at the **Wheeler Lab**  
 - Web Developer and club executive at the **U of T Quantum Computing Club**  
 - Fluent in English and Russian, proficient in German
 
-### 🏆 Recent highlight
+### Recent highlight
 - **Toronto Bioinformatics Hackathon 2025**: 2nd place out of 23 projects (116 contestants).  
   I co-led a 5-person team and **single-handedly trained** a transformer model (DNABERT-2-117M) in PyTorch and Hugging Face on A100 GPUs to **predict alternative polyadenylation site choice** from sequence.  
   Held-out performance: **Accuracy 0.86**, **AUROC 0.93**, **AUPRC 0.94**, **F1 0.86**.  
@@ -48,12 +48,12 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
 </p>
 
-### 🔭 What I’m doing now
+### What I’m doing now
 - Building **Python + PySide6 GUI** tools for data acquisition and instrument control for **DISCO** in the Wheeler Lab  
 - Developing a new **UTQC website** for 650+ members  
 - Exploring ML for biology tasks that are interpretable and practical
 
-### 📌 Selected projects
+### Selected projects
 - **Predicting APA Site Choice from mRNA Sequences**  
   Transformer based on DNABERT-2-117M with >800k labeled samples.  
   Results: Acc 0.86, AUROC 0.93, AUPRC 0.94, F1 0.86.  
@@ -64,22 +64,21 @@
   Stack: Python, Cloudflare Workers, plain JS.  
   🔗 Repo: https://github.com/l2ggy/leettutor
 
-### 🧪 Experience snapshot
+### Experience snapshot
 - **Wheeler Lab, University of Toronto** — Instrumentation Software Developer (work study)  
   Python and PySide6 for GUI automation, instrument control and data workflows on Linux. Version control with Git.  
 - **Helmholtz Munich** — Research Intern  
   Hands-on exposure to imaging research with laser based hardware and data acquisition in biomedical optics.
 
-### 📈 GitHub stats
+### GitHub stats
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=l2ggy&show_icons=true&hide_title=true&count_private=true&theme=default" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l2ggy&layout=compact&hide_title=true&langs_count=8&theme=default" />
 </p>
 
-### 📫 Get in touch
+### Get in touch
 - Email: **b.kafidov@mail.utoronto.ca**  
 - LinkedIn: **/in/laggy**  
-- Always open to collaborating on impactful student projects and 2026 SWE internships
 
 <!-- Provenance note for viewers who want the longer CV -->
 <sub>Résumé source on file.</sub>

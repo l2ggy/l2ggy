@@ -29,7 +29,7 @@
   Held-out performance: **Accuracy 0.86**, **AUROC 0.93**, **AUPRC 0.94**, **F1 0.86**.  
   The team was awarded **$500**.
 
-### 🛠️ What I work with
+### What I work with
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />

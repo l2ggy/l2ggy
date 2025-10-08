@@ -18,9 +18,9 @@
 ---
 
 ### About me
-- CS & Math student at U of T with a focus in AI  
+- CS & Math student at UofT with a focus in AI  
 - Instrumentation Software Developer (work study) at the **Wheeler Lab**  
-- Web Developer and club executive at the **U of T Quantum Computing Club**  
+- Web Developer and club executive at the **UofT Quantum Computing Club**  
 - Fluent in English and Russian, proficient in German
 
 ### Highlights

@@ -48,12 +48,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
 </p>
 
-### Selected projects
-- **LeetTutor**  
-  A lightweight micro-app that analyzes LeetCode problems and returns targeted feedback quickly.  
-  Stack: Python, Cloudflare Workers, plain JS.  
-  Repo: https://github.com/l2ggy/leettutor
-
 ### GitHub stats
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=l2ggy&show_icons=true&hide_title=true&count_private=true&theme=default" />

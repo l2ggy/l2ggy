@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:b.kafidov@mail.utoronto.ca"><img alt="Email" src="https://img.shields.io/badge/Email-b.kafidov%40mail.utoronto.ca-blue?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/laggy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-laggy-blue?logo=linkedin"></a>
   <a href="https://github.com/l2ggy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-l2ggy-black?logo=github"></a>
 </p>

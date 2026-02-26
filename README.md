@@ -3,7 +3,7 @@
   Inspired by: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 
-<h1 align="center">Hi, I'm Boris!!</h1>
+<h1 align="center">Hi!!</h1>
 
 <p align="center">
   <a href="https://www.utoronto.ca/">University of Toronto</a> • CS & Math (AI focus) • Toronto, Canada

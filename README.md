@@ -10,6 +10,8 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/laggy/">LinkedIn</a>
   &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/lagsterino/">LeetCode</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/l2ggy?tab=repositories">Projects</a>
 </p>
 

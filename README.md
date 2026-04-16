@@ -12,7 +12,7 @@
   &nbsp;·&nbsp;
   <a href="https://leetcode.com/u/lagsterino/">LeetCode</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/l2ggy?tab=repositories">Projects</a>
+  <a href="https://kafidov.dev">Portfolio</a>
 </p>
 
 <p align="center">
